@@ -1,0 +1,3 @@
+[submodule "SimpleChatRubyClient"]
+	path = SimpleChatRubyClient
+	url = git@github.com:primenumber/SimpleChatRubyClient.git
