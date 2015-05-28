@@ -12,7 +12,7 @@ OthelloAIServer
 ## 初期化
 
 ```
-$ git submodule iniy
+$ git submodule init
 $ git submodule update
 ```
 
